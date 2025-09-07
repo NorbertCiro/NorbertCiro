@@ -1,4 +1,4 @@
-[![linkedin.png](https://media.licdn.com/dms/image/v2/D4E03AQFsepfzubrr4w/profile-displayphoto-shrink_800_800/B4EZQ99VGkHAAc-/0/1736206276403?e=1759968000&v=beta&t=c_xJqxRt1oqfzUAofpyX5eaWnd9IeAaYn7srYnsQOg0)](https://postimg.cc/qNpTxLBq)
+[![linkedin.png](https://i.postimg.cc/529fK5Rb/Norbert.png)](https://postimg.cc/Cztyz80Q)
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Norberto Salazar</h2>
