@@ -1,4 +1,4 @@
-[![linkedin.png](https://i.postimg.cc/529fK5Rb/Norbert.png)](https://postimg.cc/Cztyz80Q)
+[![linkedin.png](https://i.postimg.cc/R0Jfqnz5/Norbert.png)](https://postimg.cc/f3ZkryLB)
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Norberto Salazar</h2>
