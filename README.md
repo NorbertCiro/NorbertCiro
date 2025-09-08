@@ -21,7 +21,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,php,next,laravel,react,nodejs,vue,express,wordpress,docker,kubernetes,windows,linux,archilinux,angular,nest,npm,vite,yarn,git,github,notion,gitlab,figma,html,css,tailwind,bootstrap,sass,graphql,mysql,postgres,sqlite,mongodb,firebase,aws,discord,vscode,postman,ubuntu,androidstudio,mint,sublimeapple&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,php,next,laravel,react,nodejs,vue,express,wordpress,docker,kubernetes,windows,linux,rocketbot,powershell,angular,nest,npm,vite,yarn,git,github,notion,gitlab,figma,html,css,tailwind,bootstrap,sass,graphql,mysql,postgres,sqlite,mongodb,firebase,aws,discord,vscode,postman,ubuntu,androidstudio,mint,sublimeapple&perline=8)](https://skillicons.dev)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
